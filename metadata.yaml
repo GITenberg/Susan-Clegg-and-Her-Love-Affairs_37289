@@ -1,0 +1,45 @@
+_repo: Susan-Clegg-and-Her-Love-Affairs_37289
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brett, Harold
+    aliases:
+    - Brett, Harold M. (Harold Matthews)
+    - Brett, H. M. (Harold Matthews)
+    birthdate: 1880
+    gutenberg_agent_id: '7458'
+    url: http://www.gutenberg.org/2009/agents/7458
+covers:
+- cover_type: archival
+  image_path: 37289-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Warner, Anne
+    aliases:
+    - French, Anne Richmond Warner
+    - French, Anna Richmond Warner
+    - French, Anne Warner
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '6279'
+    url: http://www.gutenberg.org/2009/agents/6279
+description: ''
+gutenberg_issued: '2011-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+tableOfContents: Susan Clegg's courting -- Susan Clegg and the Chinese lady -- Susan
+  Clegg solves the mystery -- Susan Clegg and the olive branch -- Susan Clegg's "improvements"
+  -- Susan Clegg uprooted -- Susan Clegg unsettled -- Susan Clegg and the cyclone
+  -- Susan Clegg's practical friend -- Susan Clegg develops imagination -- Susan Clegg
+  and the playwright -- Susan Clegg's disappearance.
+title: Susan Clegg and Her Love Affairs
+url: http://www.gutenberg.org/ebooks/37289
